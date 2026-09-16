@@ -1,4 +1,4 @@
-//1. Elabore um programa que escreve as mensagens "inicio do programa" e 
+1.// Elabore um programa que escreve as mensagens "inicio do programa" e 
 //"Fim" na tela, uma em cada linha, usando apenas um comando printf().
 
 #include <stdio.h>
